@@ -1,4 +1,4 @@
-2020 project
+2020
 
 The Restaurant Booking Platform backend is a Spring Boot application built in 2020 designed to handle restaurant reservations. It follows a layered architecture with well-organized components, including controllers, services, repositories, and DTOs. The system ensures data validation, error handling, and test coverage, making it robust and scalable.
 
